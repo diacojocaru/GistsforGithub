@@ -37,7 +37,7 @@ const Gist = (props) => {
         <a href={props.htmlUrl}>
           <h2>{props.title}</h2>
         </a>
-        <p>Created at {props.createDate}</p>
+        <p>Gist created on {props.createDate}</p>
       </div>
       <div className={classes.snippets}>
         {props.files.map((item, index) => {

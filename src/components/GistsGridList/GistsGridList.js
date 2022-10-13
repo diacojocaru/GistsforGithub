@@ -30,7 +30,7 @@ const GistsGridList = () => {
             ownerImageSrc={item.owner.avatar_url}
             ownerHtmlUrl={item.owner.html_url}
             title={
-              item.description !== "" ? item.description : "No description"
+              item.description !== "" ? item.description : "No description."
             }
             htmlUrl={item.html_url}
             createDate={Date.parse(item.created_at).toString(

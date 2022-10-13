@@ -1,5 +1,6 @@
 # GistsLists
 The application allows users to search for Github users and get their public Gists, using the API Gists integration provided by Github.
+My focus until now was not on Javascript and on its frameworks and I tried to do my best (PHP&Laravel are my strenghts). I am willing to learn JS because it is one of the best programming languages which helps you achieve more dynamic and more performant applications and websites, it is secure through its Node modules and allows you to write structured code. 
 
 # Technical Features
 - Github API 
@@ -14,12 +15,12 @@ I used Jest for testing the application. It is the best way to test JS code in p
 
 # Future Improvements
 - Improve front-end
-- Show more details of the Git users.
+- Add pagination
+- Show more details of the Git users
 - Gists filter (by date, programming language)
 - Improve performance for larger Git profiles with more Gists.
 
 # Test the project
-- You need to have Node installed
 - Run npm install
 - Run npm test
 - (*ONLY If error occurs, follow the instructions on your terminal*)
