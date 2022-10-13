@@ -23,5 +23,6 @@ I used Jest for testing the application. It is the best way to test JS code in p
 # Test the project
 - Run npm install
 - Run npm test
+- Check it on your localhost
 - (*ONLY If error occurs, follow the instructions on your terminal*)
 
